@@ -34,6 +34,7 @@
 			* [Selfish Mining](permissionless/selfishmining.md)
 		* [Smart Contract Layer](permissionless/smartcontractlayer.md)
 	* [Privacy](permissionless/privacy.md)
+	* [Tokens](permissionless/tokens.md)
 
 ### Part III
 * [Permissioned Blockchains](permissioned/permissioned.md)
