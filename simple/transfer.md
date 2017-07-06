@@ -1,0 +1,1 @@
+As we have seen on the previous bulletin board, messages are strictly ordered on the bulletin board. 

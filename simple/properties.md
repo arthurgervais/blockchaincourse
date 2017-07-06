@@ -1,0 +1,1 @@
+In the following we start by describing in laymen terms what a blockchain is and what can be done with a blockchain. At the same time we describe the most important properties that a blockchain satisfies.

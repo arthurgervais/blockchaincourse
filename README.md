@@ -1,4 +1,4 @@
-# Blockchain by Example
+# Blockchain Workbench
 
 This course will cover the basics of what blockchain technology is and what you can do with blockchain.
 
@@ -25,3 +25,12 @@ cd blockchaincourse
 gitbook install
 gitbook serve
 ```
+
+# Do you want to contribute?
+
+Great, feel free to submit a pull request to the git repository: https://github.com/arthurgervais/blockchaincourse
+
+
+# Do you want to contribute?
+
+Blockchain Workbench by Arthur Gervais is licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License.

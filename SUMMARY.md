@@ -1,7 +1,16 @@
 # Summary
 * [Introduction](README.md)
 
-### Part I
+### Blockchain for dummies
+* [Traditional Banking](simple/traditionalbanking.md)
+* [Decentralized Banking](simple/decentralizedbanking.md)
+* [Blockchain Properties](simple/properties.md)
+	* [Message order](simple/messageorder.md)
+	* [Ownership Transfer](simple/transfer.md)
+	* [Read and write access](simple/readwrite.md)
+	* [No message modification](simple/nomodification.md)
+
+### Part II
 * [Basics](basics/basics.md)
 	* [Crytography](basics/cryptography.md)
 		* [Hash Functions](basics/hashfunctions.md)
@@ -13,7 +22,7 @@
 		* [Proof of Authority](basics/proofofauthority.md)
 	* [Network Communication](basics/networkcommunication.md)
 
-### Part II
+### Part III
 * [Permissionless Blockchains](permissionless/permissionless.md)
 	* [Bitcoin](permissionless/bitcoin.md)
 		* [Bitcoin Transactions](permissionless/bitcointransactions.md)
@@ -35,12 +44,23 @@
 		* [Smart Contract Layer](permissionless/smartcontractlayer.md)
 	* [Privacy](permissionless/privacy.md)
 	* [Tokens](permissionless/tokens.md)
+	* [Scaling](permissionless/scaling.md)
+		* [Payment Channels](permissionless/paymentchannels.md)
+	* [How decentralized are permissionless blockchain?](permissionless/howdecentralized.md)
 
-### Part III
+### Part IV
 * [Permissioned Blockchains](permissioned/permissioned.md)
 	* [Hyperledger](permissioned/hyperledger.md)
 
-### Part IV
+### Part V
+* [Do you need a blockchain?](doyouneedablockchain.md)
+* [Use Cases](usecases/usecases.md)
+	* [International Payments](usecases/internationalpayments.md)
+	* [Supply Chain Management](usecases/supplychainmanagement.md)
+	* [Healthcare](usecases/healthcare.md)
+	* [Electricity Production](usecases/electricityproduction.md)
+
+### Part VII
 * [Research Challenges](researchchallenges.md)
 * [Further resources](furtherresources.md)
 * [Acknowledgements](acknowledgements.md)
