@@ -1,4 +1,6 @@
-In it's simplelest form, a blockchain can be considered to be a bulletin board (credits to Ari Juels).
+# Message Order
+
+In it's simplelest form, a blockchain can be considered to be equivalent to a bulletin board (credits to Ari Juels).
 
 ![Blockchain Bulletin Board](./bulletinboard.png)
 
@@ -14,4 +16,4 @@ The first _property_ of blockchains that we observe is:
 
 __1. Messages are fully ordered.__
 
-This means that messages have en exact order, and that the order of the messages is important. Note that a message is equivalent to a transaction.
+This means that messages have en exact order, and that the order of the messages is important. Note that in Bitcoin/Ethereum, a message is equivalent to a transaction.

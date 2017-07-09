@@ -1,3 +1,9 @@
+# Introduction
+
+The following chapters give a humble and lightweight overview of the evolution from traditional banking to the invention of decentralized banking as enabled by Bitcoin. We start by describing in laymen terms traditional banking and then contrast this to decentralized blockchains such as Bitcoin or Ethereum. For ease of understanding, some concepts are heavily simplified, but should still reflect the most important characteristics required to understand blockchain technology.
+
+## Traditional Banking
+
 Looking back many years, the first balance sheet in history was created in Mesopotamia in the year 2040 BC. A balance sheet specifies for each individual their respective balance they possess at e.g., a bank. As such, this balance sheet represents the first instance of centralized banking. Banking literally flurished into a profitable business and many big corporations allow customers worldwide to open bank accounts (note that apparently still 39% of the world population [has no bank account](https://letstalkpayments.com/39-of-the-worlds-population-does-not-have-a-bank-account/)).
 
 ![Payment System History](./history.png)
@@ -16,4 +22,3 @@ Bob transfers here a certain monetary amount to Alice through a centralized bank
 * could be interrogated by state agencies
 
 It is important to understand, that only the bank needs to be aware of Bob's transaction to verify it's validity.
-

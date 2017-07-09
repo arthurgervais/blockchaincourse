@@ -1,7 +1,7 @@
 # Summary
 * [Introduction](README.md)
 
-### Blockchain for dummies
+### Blockchain for beginners
 * [Traditional Banking](simple/traditionalbanking.md)
 * [Decentralized Banking](simple/decentralizedbanking.md)
 * [Blockchain Properties](simple/properties.md)
@@ -9,6 +9,15 @@
 	* [Ownership Transfer](simple/transfer.md)
 	* [Read and write access](simple/readwrite.md)
 	* [No message modification](simple/nomodification.md)
+* [Blocks](simple/blocks.md)
+* [Node Types](simple/nodetypes.md)
+
+* [Is Bitcoin a Decentralized Currency?](simple/isdecentralized/isdecentralized.md)
+	* [Centralized Processes in Bitcoin](simple/isdecentralized/processes.md)
+		* [Bitcoin Services](simple/isdecentralized/services.md)
+		* [Protocol Maintenance and Modifications](simple/isdecentralized/protocolmaintenance.md)
+		* [Coin Tainting](simple/isdecentralized/tainting.md)
+	* [Enhancing the Decentralization in Bitcoin](simple/isdecentralized/enhancing.md)
 
 ### Part II
 * [Basics](basics/basics.md)
